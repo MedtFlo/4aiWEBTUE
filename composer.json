@@ -1,0 +1,22 @@
+{
+    "name": "flo/4ai-webtue",
+    "type": "project",
+    "require": {
+        "endroid/qrcode": "^2.4",
+        "htl3r/kung-fu-movies": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MedtFlo",
+            "email": "4136@htl.rennweg.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Weissheiten/htl3r.kungfumovies.git"
+        }
+    ]
+}
